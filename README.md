@@ -3,13 +3,14 @@ Sistem informasi bank sampah berbasis web ini memiliki tampilan yang sederhana d
 
 To access admin page, add url /admin. Example http://localhost/banksampahku/page/login.php
 
-## Tampilan Aplikasi
-# Tampilan Homepage
+# Tampilan Aplikasi
+## Tampilan Homepage
 ![ss](asset2/ss1.png)
 ![ss](asset2/ss2.png)
 ![ss](asset2/ss3.png)
+## Tampilan Login
 ![ss](asset2/ss4.png)
-# Tampilan Admin
+## Tampilan Admin
 ![ss](asset2/ss5.png)
 ![ss](asset2/ss6.png)
 ![ss](asset2/ss7.png)
